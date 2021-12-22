@@ -1,3 +1,21 @@
+<h3 align="center">Integrando um Backend em Node.js com um Frontend em React para um E-commerce </h3>
+
+<p align="center">
+  <img src="./assets/dio.png" alt="DIO" title="Digital Innovation One">
+</p>
+
+<p align="center">
+<img src="./assets/bootcamp.png" alt="DIO" title="Digital Innovation One"  width="70" height="70">
+</p>
+<p align="center">
+Bootcamp 
+Inter Frontend Developer da [Digital Innovation One](https://digitalinnovation.one/).
+</p>
+
+<img src="./assets/badge.png" title="Badge" width="70" height="70">
+Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em Node.js). Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza ou faça um "fork" nos projetos da expert (os links estão disponíveis deste Desafio) e implemente suas próprias evoluções. Vamos juntos!?
+
+
 # Primeiros passos com Criar aplicativo React
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
